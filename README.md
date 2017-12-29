@@ -1,6 +1,5 @@
 
-# Factorial_read
-## Factorial Calculator
+# Factorial Calculator
 Simple program that calculates factorials using recursion
 
 ## Usage 
